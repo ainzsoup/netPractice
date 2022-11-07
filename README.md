@@ -1,1 +1,3 @@
-# netPractice
+#            Little subnetting tutorial to help you with NetPractice (^_<)〜☆ <h2>
+will update it with more usefull information soon...
+# NetPractice<img width="639" alt="Screen Shot 2022-11-07 at 4 44 45 AM" src="https://user-images.githubusercontent.com/86929527/200222345-fd564b9b-094e-47f0-b5be-d27290843f40.png">
